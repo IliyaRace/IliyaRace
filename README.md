@@ -2,9 +2,9 @@
 - 👀 I’m interested in
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me ...
+- 📫 Mu From iran - Tabriz
 - 😄 Owner Game Zone App
-- ⚡ Developer Js / Py / C# / Unity
+- ⚡ Technician C++ / Py / Lua / Unreal Engine
 
 <!---
 IliyaRace/IliyaRace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
