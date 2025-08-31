@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 Mu From iran - Tabriz
 - 😄 Owner Game Zone App
-- ⚡ Technician C++ / Py / Lua / Unreal Engine
+- ⚡ Writer C++ / Py / Lua / Unreal Engine
 
 <!---
 IliyaRace/IliyaRace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
